@@ -1,16 +1,13 @@
-### Hi there 👋
+# André Felippe
 
-<!--
-**afpp3/afpp3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Atualmente focado no ecossistema front-end tentando sempre aplicar e documentar o conhecimentos adquiridos por aqui
+<br/>
+Sou front-end Developer :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS, Javascript, ReactJS, Node.js
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AndreFelippe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-felippe/)](https://www.linkedin.com/in/andre-felippe/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-afpp3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afpp3@gmail.com)](mailto:afpp3@gmail.com)
