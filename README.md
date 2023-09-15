@@ -1,15 +1,18 @@
 # André Felippe
+[![wakatime](https://wakatime.com/badge/user/81dfc274-2fc1-484c-97d8-b817ad494088.svg)](https://wakatime.com/@81dfc274-2fc1-484c-97d8-b817ad494088)
+<img src="https://komarev.com/ghpvc/?username=afpp3&style=flat&color=blue" alt="afpp3"/>
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fandrefelippe.me&style=flat&label=portfolio)
 
-## Hey 👋
 
-Atualmente focado no ecossistema front-end com React e Typescript, tentando sempre aplicar e documentar aqui todos os conhecimentos adquiridos!
+Sou desenvolvedor frontend há cerca de 2 anos, trabalho atualmente com React, Javascript, Typescript, Next, Tailwindcss, mas consigo me adaptar pra aprender novas ferramentas é um prazer ter você aqui
 
-- 🔭 Atualmente em busca de emprego como desenvolvedor front-end 
-- 🌱 Atualmente tentando aprender mais sobre Typescript e testes, enquanto aprofundo meus conhecimentos em React
-- 👯 Gosto também de jogar, ouvir música, animes e vôlei
-- 💬 Se quiser trocar ideia sobre qualquer coisa, pode chamar :)
- 
- ## 🔧 Ferramentas e Tecnologias
+<!--- ![Template](https://github.com/afpp3/portfolio/blob/main/public/opengraph-image.png) -->
+
+<a href="https://andrefelippe.me">
+ <img src="https://github.com/afpp3/portfolio/blob/main/public/opengraph-image.png" />
+</a>
+
+## 🔧 Ferramentas e Tecnologias
  
  <p align="">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
