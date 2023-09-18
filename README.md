@@ -24,11 +24,11 @@ Sou desenvolvedor frontend há cerca de 2 anos, trabalho atualmente com React, J
 
 <p align="">
     <a href="https://github.com/afpp3">
-    <img height="220em" align="center"  src="https://github-readme-stats.vercel.app/api?username=afpp3&count_private=true&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&layout=compact)" />
+    <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=afpp3&count_private=true&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&layout=compact)" />
   </a>
 
   <a href="https://github.com/afpp3">
-    <img height="220em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpp3&langs_count=8&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true&)" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpp3&langs_count=8&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true&)" />
   </a>
 <p/>  
 
