@@ -40,3 +40,6 @@ Sou desenvolvedor frontend há cerca de 2 anos, trabalho atualmente com React, J
  
 [![Linkedin Badge](https://img.shields.io/badge/-AndreFelippe-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/andre-felippe/)](https://www.linkedin.com/in/andre-felippe/) 
 [![Gmail Badge](https://img.shields.io/badge/-afpp3@gmail.com-c14438?style=social&logo=Gmail&link=mailto:afpp3@gmail.com)](mailto:afpp3@gmail.com)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/IPdotSetAF/NeoMatrix/master/images/preview3.gif');]{x0000}$}
