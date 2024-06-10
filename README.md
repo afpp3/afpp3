@@ -4,7 +4,7 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fandrefelippe.me&style=flat&label=portfolio)
 
 
-Sou desenvolvedor frontend há cerca de 2 anos, trabalho atualmente com React, Javascript, Typescript, Next, Tailwindcss, mas consigo me adaptar pra aprender novas ferramentas é um prazer ter você aqui
+Sou desenvolvedor frontend há cerca de 2 anos, trabalho atualmente com React, Javascript, Typescript, Next, Tailwindcss, mas consigo me adaptar pra aprender novas ferramentas.
 
 <!--- ![Template](https://github.com/afpp3/portfolio/blob/main/public/opengraph-image.png) -->
 
@@ -41,5 +41,5 @@ Sou desenvolvedor frontend há cerca de 2 anos, trabalho atualmente com React, J
 [![Linkedin Badge](https://img.shields.io/badge/-AndreFelippe-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/andre-felippe/)](https://www.linkedin.com/in/andre-felippe/) 
 [![Gmail Badge](https://img.shields.io/badge/-afpp3@gmail.com-c14438?style=social&logo=Gmail&link=mailto:afpp3@gmail.com)](mailto:afpp3@gmail.com)
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/IPdotSetAF/NeoMatrix/master/images/preview3.gif');]{x0000}$}
+<!-- ```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/IPdotSetAF/NeoMatrix/master/images/preview3.gif');]{x0000}$} -->
