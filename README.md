@@ -8,7 +8,7 @@ Sou desenvolvedor frontend há cerca de 2 anos, trabalho atualmente com React, J
 
 <!--- ![Template](https://github.com/afpp3/portfolio/blob/main/public/opengraph-image.png) -->
 
-<a href="https://andrefelippe.me">
+<a href="https://andrefelippe.com">
  <img src="https://github.com/afpp3/portfolio/blob/main/public/opengraph-image.png" />
 </a>
 
